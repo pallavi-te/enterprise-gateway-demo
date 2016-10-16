@@ -1,0 +1,138 @@
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\roslyn\csc.exe
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\roslyn\vbc.exe
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\enterprise-gateway-demo.dll.config
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\enterprise-gateway-demo.dll
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\enterprise-gateway-demo.pdb
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\Antlr3.Runtime.dll
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\EntityFramework.dll
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\EntityFramework.SqlServer.dll
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.dll
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.Security.dll
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\Newtonsoft.Json.dll
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\Owin.dll
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\System.Web.Helpers.dll
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\System.Web.Mvc.dll
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\System.Web.Optimization.dll
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\System.Web.Razor.dll
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\System.Web.WebPages.dll
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\WebGrease.dll
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\System.Web.Helpers.xml
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\System.Web.Mvc.xml
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\System.Web.Optimization.xml
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\System.Web.Razor.xml
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\System.Web.WebPages.xml
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\Antlr3.Runtime.pdb
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\Newtonsoft.Json.xml
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\EntityFramework.xml
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\EntityFramework.SqlServer.xml
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.xml
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.Security.xml
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\obj\Debug\enterprise-gateway-demo.dll
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\obj\Debug\enterprise-gateway-demo.pdb
+C:\Users\Santosh Waghmare\documents\visual studio 2015\Projects\enterprise-gateway-demo\enterprise-gateway-demo\obj\Debug\enterprise-gateway-demo.csprojResolveAssemblyReference.cache
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\roslyn\csc.exe
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\roslyn\System.Collections.Immutable.dll
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\roslyn\vbc.exe
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\roslyn\VBCSCompiler.exe
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\roslyn\VBCSCompiler.exe.config
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\enterprise-gateway-demo.dll.config
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\enterprise-gateway-demo.dll
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\enterprise-gateway-demo.pdb
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\Antlr3.Runtime.dll
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\EntityFramework.dll
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\EntityFramework.SqlServer.dll
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.dll
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.Security.dll
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.Security.Google.dll
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Web.Infrastructure.dll
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\Newtonsoft.Json.dll
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\Owin.dll
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\System.Web.Helpers.dll
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\System.Web.Mvc.dll
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\System.Web.Optimization.dll
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\System.Web.Razor.dll
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\System.Web.WebPages.Deployment.dll
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\System.Web.WebPages.dll
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\System.Web.WebPages.Razor.dll
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\WebGrease.dll
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\System.Web.Helpers.xml
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\System.Web.Mvc.xml
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\System.Web.Optimization.xml
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\System.Web.Razor.xml
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\System.Web.WebPages.xml
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\System.Web.WebPages.Deployment.xml
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\System.Web.WebPages.Razor.xml
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\Antlr3.Runtime.pdb
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\Newtonsoft.Json.xml
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\EntityFramework.xml
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\EntityFramework.SqlServer.xml
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.xml
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.Security.xml
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.Security.Google.xml
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\obj\Debug\enterprise-gateway-demo.csprojResolveAssemblyReference.cache
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\obj\Debug\enterprise-gateway-demo.dll
+D:\Sanjay's thirdeye Task\collin murphy VM\enterprise-gateway-demo\enterprise-gateway-demo\obj\Debug\enterprise-gateway-demo.pdb

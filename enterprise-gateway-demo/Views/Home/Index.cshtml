@@ -1,0 +1,36 @@
+﻿@{
+    ViewBag.Title = "Demo";
+}
+<div class="row" ng-app="myapp" ng-controller="HomeController">
+    <div class="col-md-4 demobutton">
+        <h2>Start Demo</h2>
+        <a href="" ng-class="{{Demo.IsStarted?'disabled':''}}"><i class="glyphicon glyphicon-play-circle  start"></i></a>
+        <p class="label status">
+            <a href="" class="btn">
+                <span class="text-primary" ng-hide="Demo.IsStarted">Click To Start</span>
+                <span class="text-success" ng-show="Demo.IsStarted">Started</span>
+            </a>
+        </p>
+    </div>
+    <div class="col-md-4 demobutton">
+        <h2>Stop Demo</h2>
+        <a href="" ng-disabled="Demo.IsStarted"><i class="glyphicon glyphicon-stop stop"></i></a>
+        <p class="label status">
+            <a href="" class="btn">
+                <span class="text-danger" ng-show="Demo.IsStarted">Click To Stop</span>
+                <span class="text-success" ng-hide="Demo.IsStarted">Stopped</span>
+            </a>
+
+        </p>
+    </div>
+    <div class="col-md-4 demobutton">
+        <h2>Reset Demo</h2>
+        <a href="" ng-disabled="!Demo.IsResetRequired"><i class="glyphicon glyphicon-off stop"></i></a>
+        <p class="label status">
+            <a href="" class="btn">
+                <span class="text-info" ng-show="Demo.IsResetRequired">Click To Reset</span>
+                <span class="text-success" ng-hide="Demo.IsResetRequired">Reset Done!</span>
+            </a>
+        </p>
+    </div>
+</div>
